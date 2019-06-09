@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Unila Access</string>
+
+    <string name="siakad">https://siakad.unila.ac.id</string>
+
+    <string name="vclass">http://vclass.unila.ac.id/</string>
+
+    <string name="kkn">https://kkn.unila.ac.id/</string>
+
+    <string name="ekkn">https://e-kkn.unila.ac.id/login</string>
+
+    <string name="unila">https://www.unila.ac.id/</string>
+
+    <string name="simanila">http://simanila.unila.ac.id/</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="PIN">PIN</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+</resources>
